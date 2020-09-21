@@ -1,14 +1,75 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+  "news": {
+    "page": {
+        "total": 3,
+        "current": 1
+    },
+    "list": [
+          {
+              "date": "18 September 2020",
+              "id": "34783305",
+              "image": "/images/default_news.jpg",
+              "spotlight": true,
+              "theme": "",
+              "title": "Zebra launches internal marketplace",
+              "url": "/en/news-and-media/press-releases-and-news/zebra-launches-internal-marketplace/"
+          },
+          {
+              "date": "28 August 2020",
+              "id": "34782438",
+              "spotlight": false,
+              "theme": "",
+              "title": "Zebra pioneers Hunt for Risk mobile app to fight workplace risks",
+              "url": "/en/news-and-media/press-releases-and-news/zebra-pioneers-hunt-for-risk-mobile-app-to-fight-workplace-risks/"
+          },
+          {
+              "date": "26 August 2020",
+              "id": "34782872",
+              "spotlight": false,
+              "theme": ["covid-19"],
+              "title": "Zebra supports construction of a hospital for treatment of infectious diseases in Novokuznetsk",
+              "url": "/en/news-and-media/press-releases-and-news/zebra-supports-construction-of-a-hospital-for-treatment-of-infec/"
+          },
+          {
+              "date": "06 August 2020",
+              "id": "34781524",
+              "spotlight": false,
+              "theme": ["Corporate news"],
+              "title": "Zebra announces unaudited interim financial results for H1 2020",
+              "url": "/en/news-and-media/press-releases-and-news/zebra-announces-unaudited-interim-financial-results-for-h1-2020/"
+          },
+          {
+              "date": "06 August 2020",
+              "id": "347815241",
+              "spotlight": false,
+              "theme": ["Corporate news"],
+              "title": "Zebra announces unaudited interim financial results for H1 2020",
+              "url": "/en/news-and-media/press-releases-and-news/zebra-announces-unaudited-interim-financial-results-for-h1-2020/"
+          },
+          {
+              "date": "06 August 2020",
+              "id": "347815242",
+              "spotlight": false,
+              "theme": ["Corporate news"],
+              "title": "Zebra announces unaudited interim financial results for H1 2020",
+              "url": "/en/news-and-media/press-releases-and-news/zebra-announces-unaudited-interim-financial-results-for-h1-2020/"
+          },
+          {
+              "date": "03 August 2020",
+              "id": "347815243",
+              "spotlight": false,
+              "theme": ["Corporate news"],
+              "title": "Zebra announces unaudited interim financial results for H1 2020",
+              "url": "/en/news-and-media/press-releases-and-news/zebra-announces-unaudited-interim-financial-results-for-h1-2020/"
+          },
+          {
+              "date": "01 August 2020",
+              "id": "347815244",
+              "spotlight": false,
+              "theme": ["Corporate news"],
+              "title": "Zebra announces unaudited interim financial results for H1 2020",
+              "url": "/en/news-and-media/press-releases-and-news/zebra-announces-unaudited-interim-financial-results-for-h1-2020/"
+          }
+      ]
   }
 }
